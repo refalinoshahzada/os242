@@ -17,3 +17,13 @@ ZCZC W01 20 L49 GIT, GITHUB, and SSH
 ZCZC W01 200 L99 Class
 ZCZC W01 10L10 Quiz
 ZCZC W01 10 L01 SCELE/Discord related
+
+ZCZC W02 10 L04 GitHub Pages related
+ZCZC W02 200 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 10 L03 GitHub related
+ZCZC W02 60 L09 Weekly Assignments
+ZCZC W02 40 L50 Setup a Virtual Debian Guest
+ZCZC W02 20 L49 GIT, GITHUB, and SSH
+ZCZC W02 200 L99 Class
+ZCZC W02 10 L10 Quiz
+ZCZC W02 10 L01 SCELE/Discord related
