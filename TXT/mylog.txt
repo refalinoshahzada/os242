@@ -43,3 +43,12 @@ ZCZC W04 30 L09 Weekly Assignments
 ZCZC W04 20 L49 GIT, GITHUB, and SSH
 ZCZC W04 200 L99 Class
 ZCZC W04 10 L01 SCELE/Discord related
+
+ZCZC W05 10 L04 GitHub Pages related
+ZCZC W05 40 L32 YouTube: watching OS related topics, etc.
+ZCZC W05 10 L03 GitHub related
+ZCZC W05 90 L09 Weekly Assignments
+ZCZC W05 20 L49 GIT, GITHUB, and SSH
+ZCZC W05 200 L99 Class
+ZCZC W05 10 L01 SCELE/Discord related
+ZCZC W05 10 L10 Quiz
