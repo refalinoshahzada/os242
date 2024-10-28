@@ -29,4 +29,4 @@ After watching the previous video, I can say that this one is a much more detail
 Compact video about fun facts in linux. You can watch it in your spare time if you want some educational content on your free time. Quite humorous too.
 
 ### 2. [The mind behind Linux | Linus Torvalds | TED](https://www.youtube.com/watch?v=o8NPllzkFhE)
-Some brief history about the guy behind the operating system we know and love! Other than knowing how something works its also important to know how it was created. Opened up my perspective about linux after watching this video.
+Some brief history about the guy behind the operating system we know and love! Other than knowing how something works its also important to know how it was created. It opened up my perspective about linux after watching this video.
