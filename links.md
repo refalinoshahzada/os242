@@ -30,3 +30,7 @@ Compact video about fun facts in linux. You can watch it in your spare time if y
 
 ### 2. [The mind behind Linux | Linus Torvalds | TED](https://www.youtube.com/watch?v=o8NPllzkFhE)
 Some brief history about the guy behind the operating system we know and love! Other than knowing how something works its also important to know how it was created. It opened up my perspective about linux after watching this video.
+
+## WEEK 06
+### 1. [Docusaurus: Documentation Made Easy](https://www.youtube.com/watch?v=Yhyx7otSksg)
+This video is a whole introduction towards Docusaurus. Its very informative as it first tells you what it is and proceeds to tell you what features it has. This video also shows just how versatile and good Docusaurus. It even gives tutorials for the basic stuff.

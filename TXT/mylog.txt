@@ -52,3 +52,10 @@ ZCZC W05 20 L49 GIT, GITHUB, and SSH
 ZCZC W05 200 L99 Class
 ZCZC W05 10 L01 SCELE/Discord related
 ZCZC W05 10 L10 Quiz
+
+ZCZC W06 100 L99 Class
+ZCZC W06 60 L01 SCELE/Discord related
+ZCZC W06 200 L09 Weekly Assignments
+ZCZC W06 20 L10 Quiz
+ZCZC W06 100 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 60 L05 OS Chat related with friend
