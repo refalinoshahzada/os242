@@ -59,3 +59,12 @@ ZCZC W06 200 L09 Weekly Assignments
 ZCZC W06 20 L10 Quiz
 ZCZC W06 100 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W06 60 L05 OS Chat related with friend
+
+ZCZC W07 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 60 L64 Helping a friend (OS related problem)
+ZCZC W07 90 L09 Assignment in General
+ZCZC W07 05 L07 Demo related
+ZCZC W07 05 L04 Github Pages Related
+ZCZC W07 30 L24 Scripting in general.
+ZCZC W07 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 25 L32 YouTube: watching OS related topics, etc.

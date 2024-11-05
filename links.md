@@ -34,3 +34,7 @@ Some brief history about the guy behind the operating system we know and love! O
 ## WEEK 06
 ### 1. [Docusaurus: Documentation Made Easy](https://www.youtube.com/watch?v=Yhyx7otSksg)
 This video is a whole introduction towards Docusaurus. Its very informative as it first tells you what it is and proceeds to tell you what features it has. This video also shows just how versatile and good Docusaurus. It even gives tutorials for the basic stuff.
+
+## WEEK 07
+### 1. [Build a Markdown Documentation Site with Docusaurus (Step-by-Step)](https://youtu.be/2R53Y7eP45k?si=ADEXOlAc1aki8ahz)
+I liked this video cause its a basic tutorial about making a markdown documentation site in Docusaurus. I had problems navigating through Docusaurus at first but after watching this video it really helped me out. Now I developed a new found interest in Docusaurus! Thank you!
