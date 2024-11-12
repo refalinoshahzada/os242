@@ -38,3 +38,7 @@ This video is a whole introduction towards Docusaurus. Its very informative as i
 ## WEEK 07
 ### 1. [Build a Markdown Documentation Site with Docusaurus (Step-by-Step)](https://youtu.be/2R53Y7eP45k?si=ADEXOlAc1aki8ahz)
 I liked this video cause its a basic tutorial about making a markdown documentation site in Docusaurus. I had problems navigating through Docusaurus at first but after watching this video it really helped me out. Now I developed a new found interest in Docusaurus! Thank you!
+
+## WEEK 08
+### 1. [Linux from Scratch](https://www.youtube.com/watch?v=oV541sgHKGo)
+This is a livestream video about LFS (Linux From Scratch) and other than Kernotex's video this was also helpful because he also had an interactive chat that asked him questions and told him to do stuff. Despite being it a 2 hour long video it was fun to watch. Just like this weeks criteria he also reached part 5 of the document. 
