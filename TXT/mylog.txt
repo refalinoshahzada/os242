@@ -76,3 +76,11 @@ ZCZC W08 05 L04 Github Pages Related
 ZCZC W08 30 L24 Scripting in general.
 ZCZC W08 15 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W08 120 L32 YouTube: watching OS related topics, etc.
+
+ZCZC W09 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W09 120 L09 Assignment in General
+ZCZC W09 05 L07 Demo related
+ZCZC W09 05 L04 Github Pages Related
+ZCZC W09 30 L24 Scripting in general.
+ZCZC W09 15 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 120 L32 YouTube: watching OS related topics, etc.

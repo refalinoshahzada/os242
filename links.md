@@ -41,4 +41,8 @@ I liked this video cause its a basic tutorial about making a markdown documentat
 
 ## WEEK 08
 ### 1. [Linux from Scratch](https://www.youtube.com/watch?v=oV541sgHKGo)
-This is a livestream video about LFS (Linux From Scratch) and other than Kernotex's video this was also helpful because he also had an interactive chat that asked him questions and told him to do stuff. Despite being it a 2 hour long video it was fun to watch. Just like this weeks criteria he also reached part 5 of the document. 
+This is a livestream video about LFS (Linux From Scratch) and other than Kernotex's video this was also helpful because he also had an interactive chat that asked him questions and told him to do stuff. Despite being it a 2 hour long video it was fun to watch. Just like this weeks criteria he also reached part 5 of the document.
+
+## WEEK 09 & WEEK 10
+### 1. [LFS 12.2 - How to build Linux From Scratch 12.2](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3)
+This is an entire playlist where Kernotex (The Youtube) gives us a walkthrough of the entirety of LinuxFromScratch. This was especially helpful in finishing Week 09 and soon Week 10. He gives us very detailed explanation on every chapter and part out of the LinuxFromScratch website.  
